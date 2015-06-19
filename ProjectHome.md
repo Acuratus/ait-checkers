@@ -1,0 +1,1 @@
+Checkers game using modification of Minimax algorithm for AI, written in C++.
